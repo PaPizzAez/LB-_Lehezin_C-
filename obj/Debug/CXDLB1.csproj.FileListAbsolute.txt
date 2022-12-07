@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CXDLB1\bin\Debug\CXDLB1.exe.config
+C:\Users\user\source\repos\CXDLB1\bin\Debug\CXDLB1.exe
+C:\Users\user\source\repos\CXDLB1\bin\Debug\CXDLB1.pdb
+C:\Users\user\source\repos\CXDLB1\obj\Debug\CXDLB1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CXDLB1\obj\Debug\CXDLB1.exe
+C:\Users\user\source\repos\CXDLB1\obj\Debug\CXDLB1.pdb
+C:\Users\user\source\repos\CXDLB1\obj\Debug\CXDLB1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C###\bin\Debug\CXDLB1.exe.config
+C:\Users\user\Desktop\C###\bin\Debug\CXDLB1.exe
+C:\Users\user\Desktop\C###\bin\Debug\CXDLB1.pdb
+C:\Users\user\Desktop\C###\obj\Debug\CXDLB1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C###\obj\Debug\CXDLB1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C###\obj\Debug\CXDLB1.exe
+C:\Users\user\Desktop\C###\obj\Debug\CXDLB1.pdb
